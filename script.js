@@ -1,5 +1,3 @@
-console.log("Script loaded!");
-
 document.querySelector("form").addEventListener("submit", function (event) {
     event.preventDefault();
 
